@@ -76,7 +76,7 @@ Now you will need to create and change the `public/favicon.ico`, `public/logo192
 Remember to update the title and description the `public/index.html` file
 
 ```html
-<title>Tu nombre</title>
+<title>Tu Titulo</title>
 <meta name="description" content="Mint your NFT" />
 ```
 
