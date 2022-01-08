@@ -3,7 +3,7 @@
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
-The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).
+The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs.
 
 The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through).
 
@@ -47,7 +47,7 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
   "DISPLAY_COST": 0.075, //precio del NFT
   "GAS_LIMIT": 285000,   //limite del gas
   "MARKETPLACE": "Opeansea",  
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/spider-anvorguesa",
   "SHOW_BACKGROUND": true
 }
 ```
