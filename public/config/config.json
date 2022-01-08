@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDfc1648d81012b6da6Dd254c667125aCCd504e9D",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xdfc1648d81012b6da6dd254c667125accd504e9d",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Spider Anvorguesa",
+  "SYMBOL": "SA",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/spider-anvorguesa",
+  "SHOW_BACKGROUND": true
+}
